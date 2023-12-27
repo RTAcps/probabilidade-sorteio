@@ -30,6 +30,11 @@ Você pode personalizar este simulador de acordo com suas preferências:
 
 - Interface de usuário: Você pode expandir a interface do usuário adicionando mais recursos, como gráficos ou animações, para tornar a experiência mais atraente.
 
+
+## Deploy
+
+Pode conferir o funcionamento da aplicação em [Probabilidade de acertar os Números de um Sorteio]()
+
 ## Tecnologias Usadas
 
 Este simulador utiliza as seguintes tecnologias:
