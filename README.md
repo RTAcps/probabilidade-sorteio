@@ -33,7 +33,7 @@ Você pode personalizar este simulador de acordo com suas preferências:
 
 ## Deploy
 
-Pode conferir o funcionamento da aplicação em [Probabilidade de acertar os Números de um Sorteio]()
+Pode conferir o funcionamento da aplicação em [Probabilidade de acertar os Números de um Sorteio](https://rtacps.github.io/probabilidade-sorteio/)
 
 ## Tecnologias Usadas
 
